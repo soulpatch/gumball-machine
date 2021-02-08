@@ -35,7 +35,5 @@ public class GumballMachineTestDrive {
 		System.out.println(gumballMachine.turnCrank());
 
 		System.out.println(gumballMachine.machineStatus());
-
 	}
-
 }

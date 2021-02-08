@@ -92,7 +92,7 @@ public class GumballMachineDisplayTests {
 
     assertThat(display)
         .isEqualTo("You turned, but there's no quarter\n" +
-                   "You need to pay first");
+                       "You need to pay first");
   }
 
   @Test
